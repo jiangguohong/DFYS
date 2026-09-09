@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this protocol, please cite it as below."
+title: "MBM-0: Memory Birth Metrics v0"
+authors:
+  - name: "FeiYing Dual-Agent System"
+    email: 46894742@qq.com
+license: CC-BY-4.0
+doi: 10.5281/zenodo.22671447
+repository-code: "https://github.com/jiangguohong/DFYS"
+url: "https://github.com/jiangguohong/DFYS/tree/main/mbm-0"
+keywords:
+  - agent memory
+  - memory growth
+  - black-box evaluation
+  - memory benchmark
+  - birth event
